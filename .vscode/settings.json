@@ -1,0 +1,8 @@
+{
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "eslint.codeAction.disableRuleComment": {
+        "enable": false
+    }
+}
